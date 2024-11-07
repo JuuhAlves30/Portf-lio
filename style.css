@@ -1,0 +1,115 @@
+header {
+    background-color: #1c1c1c;
+    color: #fff;
+    padding: 30px 20px;
+    text-align: center;
+    border-bottom: 4px solid #fc01f3;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.8em;
+}
+
+header p {
+    margin: 10px 0 0;
+    font-size: 1.4em;
+}
+
+.profile-photo {
+    width: 200px; 
+    height: 200px; 
+    border-radius: 50%; 
+    border: 5px solid #fc01f3; 
+    object-fit: cover; 
+    margin-right: 20px; 
+}
+#foto{
+    filter: drop-shadow(2px 2px 2px rgb(246, 156, 240));
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1c1c1c;
+    color: #000000;
+}
+
+nav {
+    background-color: #1c1c1c;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+nav a:hover {
+    color: #ff00bf;
+}
+
+section {
+    margin: 20px auto;
+    padding: 30px;
+    max-width: 900px;
+    background-color: #c0c0c0;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+    font-size: 2.4em;
+    margin-bottom: 20px;
+    color: #84007e;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+li {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+}
+
+#contato a {
+    color: #790073;
+    text-decoration: none;
+}
+
+#contato a:hover {
+    text-decoration: underline;
+}
+
+.social-icons a {
+    color: #333;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.social-icons a:hover {
+    background-color: #d0acd4;
+    color:
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #6e0069;
+    color: #fff;
+    background-color: #b18db6;
+    border-top: 4px solid;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
